@@ -8,4 +8,4 @@ def fact(x):
 while t:
 	n = int(raw_input())
 	print fact(n)
-	t = t - 1https://github.com/batmanav/Evs_project.git
+	t = t - 1
